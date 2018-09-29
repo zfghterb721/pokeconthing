@@ -2,7 +2,7 @@ const express = require('express')
 const http = require('http')
 const socketIO = require('socket.io')
 // our localhost port
-const port = 80
+const port = 8080
 
 const app = express()
 
